@@ -1,0 +1,21 @@
+# 权重与示例数据体积过大，不入库
+weights/
+assets/
+*.npz
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# LaTeX 中间产物
+*.aux
+*.log
+*.out
+*.toc
+
+# 系统
+.DS_Store
+Thumbs.db
